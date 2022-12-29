@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672147301 source:/home/camilo/Desktop/C/learning_c/average/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672167445 source:/home/camilo/Desktop/C/learning_c/higher_minor_numbers/main.c
+	<stdio.h>
+	<stdlib.h>
+

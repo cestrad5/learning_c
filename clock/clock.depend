@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672088100 source:/home/camilo/Desktop/C/learning_c/clock/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -26,7 +26,5 @@ int main()
         printf("x is an Even number\n");
     else printf("x is an Odd number\n");
         }
-
     return 0;
-
 }

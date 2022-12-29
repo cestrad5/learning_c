@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671888554 source:/home/camilo/Desktop/C/learning_c/if_else/if_else.c
+	<stdio.h>
+	<stdlib.h>
+

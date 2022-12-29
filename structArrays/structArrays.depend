@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672326704 source:/home/camilo/Desktop/C/learning_c/structArrays/main.c
+	<stdio.h>
+	<stdlib.h>
+
